@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Hola mundo</string>
+    <string name="app_name">Cita</string>
+    <string name="label_titulo">Reservar Cita</string>
+    <string name="label_descripcion">Descripcion</string>
+    <string name="label_especialidad">Especialidad</string>
+    <string name="label_tipo">Tipo</string>
+    <string name="rdb_consulta">Consulta</string>
+    <string name="rdb_operacion">Operacion</string>
+    <string name="rdb_examen">Examen</string>
+    <string name="btn_siguiente">Siguiente</string>
 </resources>
